@@ -1,0 +1,15 @@
+C:\Users\LachlanvanderVelden\OneDrive - Swinburne University\Object Oriented Programing\Assesments\S2 - Chalenge 3\Full Assesment\DatabaseProject\TGVE.Database\bin\Debug\TGVE.Database.dacpac
+C:\Users\LachlanvanderVelden\OneDrive - Swinburne University\Object Oriented Programing\Assesments\S2 - Chalenge 3\Full Assesment\DatabaseProject\TGVE.Database\bin\Debug\TGVE.Database.dll
+C:\Users\LachlanvanderVelden\OneDrive - Swinburne University\Object Oriented Programing\Assesments\S2 - Chalenge 3\Full Assesment\DatabaseProject\TGVE.Database\bin\Debug\TGVE.Database.pdb
+C:\Users\LachlanvanderVelden\OneDrive - Swinburne University\Object Oriented Programing\Assesments\S2 - Chalenge 3\Full Assesment\DatabaseProject\TGVE.Database\obj\Debug\TGVE.Database.sqlprojAssemblyReference.cache
+C:\Users\LachlanvanderVelden\OneDrive - Swinburne University\Object Oriented Programing\Assesments\S2 - Chalenge 3\Full Assesment\DatabaseProject\TGVE.Database\obj\Debug\Model.xml
+C:\Users\LachlanvanderVelden\OneDrive - Swinburne University\Object Oriented Programing\Assesments\S2 - Chalenge 3\Full Assesment\DatabaseProject\TGVE.Database\obj\Debug\refactor.xml
+C:\Users\LachlanvanderVelden\OneDrive - Swinburne University\Object Oriented Programing\Assesments\S2 - Chalenge 3\Full Assesment\DatabaseProject\TGVE.Database\obj\Debug\postdeploy.sql
+C:\Users\LachlanvanderVelden\OneDrive - Swinburne University\Object Oriented Programing\Assesments\S2 - Chalenge 3\Full Assesment\DatabaseProject\TGVE.Database\obj\Debug\predeploy.sql
+C:\Users\LachlanvanderVelden\OneDrive - Swinburne University\Object Oriented Programing\Assesments\S2 - Chalenge 3\Full Assesment\DatabaseProject\TGVE.Database\obj\Debug\TGVE.Database.dll
+C:\Users\LachlanvanderVelden\OneDrive - Swinburne University\Object Oriented Programing\Assesments\S2 - Chalenge 3\Full Assesment\DatabaseProject\TGVE.Database\obj\Debug\TGVE.Database.pdb
+D:\Assessments\OO FINAL\DatabaseProject\TGVE.Database\bin\Debug\TGVE.Database.dacpac
+D:\Assessments\OO FINAL\DatabaseProject\TGVE.Database\bin\Debug\TGVE.Database.dll
+D:\Assessments\OO FINAL\DatabaseProject\TGVE.Database\bin\Debug\TGVE.Database.pdb
+D:\Assessments\OO FINAL\DatabaseProject\TGVE.Database\obj\Debug\TGVE.Database.dll
+D:\Assessments\OO FINAL\DatabaseProject\TGVE.Database\obj\Debug\TGVE.Database.pdb

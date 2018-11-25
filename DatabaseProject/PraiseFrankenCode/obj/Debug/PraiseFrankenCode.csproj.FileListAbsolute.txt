@@ -1,0 +1,13 @@
+D:\Assessments\OO FINAL\DatabaseProject\PraiseFrankenCode\obj\Debug\PraiseFrankenCode.csproj.CoreCompileInputs.cache
+D:\Assessments\OO FINAL\DatabaseProject\PraiseFrankenCode\bin\Debug\PraiseFrankenCode.exe.config
+D:\Assessments\OO FINAL\DatabaseProject\PraiseFrankenCode\bin\Debug\PraiseFrankenCode.exe
+D:\Assessments\OO FINAL\DatabaseProject\PraiseFrankenCode\bin\Debug\PraiseFrankenCode.pdb
+D:\Assessments\OO FINAL\DatabaseProject\PraiseFrankenCode\bin\Debug\EntityFramework.dll
+D:\Assessments\OO FINAL\DatabaseProject\PraiseFrankenCode\bin\Debug\EntityFramework.SqlServer.dll
+D:\Assessments\OO FINAL\DatabaseProject\PraiseFrankenCode\bin\Debug\Newtonsoft.Json.dll
+D:\Assessments\OO FINAL\DatabaseProject\PraiseFrankenCode\bin\Debug\EntityFramework.xml
+D:\Assessments\OO FINAL\DatabaseProject\PraiseFrankenCode\bin\Debug\EntityFramework.SqlServer.xml
+D:\Assessments\OO FINAL\DatabaseProject\PraiseFrankenCode\bin\Debug\Newtonsoft.Json.xml
+D:\Assessments\OO FINAL\DatabaseProject\PraiseFrankenCode\obj\Debug\PraiseFrankenCode.exe
+D:\Assessments\OO FINAL\DatabaseProject\PraiseFrankenCode\obj\Debug\PraiseFrankenCode.pdb
+D:\Assessments\OO FINAL\DatabaseProject\PraiseFrankenCode\obj\Debug\PraiseFrankenCode.csprojResolveAssemblyReference.cache
